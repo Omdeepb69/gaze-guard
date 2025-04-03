@@ -1,0 +1,4 @@
+opencv-python
+numpy
+dlib (optional, for potentially better landmark detection)
+playsound (optional, for audio alerts)
